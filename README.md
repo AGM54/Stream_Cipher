@@ -19,11 +19,11 @@ Este proyecto implementa un esquema básico de cifrado y descifrado utilizando l
 
 1. Clona el repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone <https://github.com/AGM54/Stream_Cipher>
    ```
 2. Navega al directorio del proyecto:
    ```bash
-   cd <NOMBRE_DEL_REPOSITORIO>
+   cd <Stream_Cipher>
    ```
 
 ## Uso
